@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <Response>
+  <Status>true</Status> 
+  <Ip>172.18.23.212</Ip> 
+  <CountryCode>US</CountryCode> 
+  <CountryName>United States</CountryName> 
+  <RegionCode>CA</RegionCode> 
+  <RegionName>California</RegionName> 
+  <City>Concord</City> 
+  <ZipCode>94520</ZipCode> 
+  <Latitude>38.0033</Latitude> 
+  <Longitude>-122.032</Longitude> 
+  </Response>
